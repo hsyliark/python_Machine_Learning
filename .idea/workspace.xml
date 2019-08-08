@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcb1905c-9ec6-42ca-ac75-b7041ec5e99c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/8월 7일 ~ 8월 8일 (Linear Regression)-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/8월 7일 ~ 8월 8일 (Linear Regression)-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/8월 9일 (Logistic Regression)-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8월 7일 ~ 8월 8일 (Linear Regression).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/8월 7일 ~ 8월 8일 (Linear Regression).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8월 9일 (Logistic Regression).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/8월 8일 (Perceptron, XOR)-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/8월 8일 (Perceptron, XOR)-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8월 8일 (Perceptron, XOR).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/8월 8일 (Perceptron, XOR).ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,10 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/deep_class/09_XOR-backpropagation.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="746">
+              <caret line="169" column="69" lean-forward="true" selection-start-line="2" selection-end-line="169" selection-end-column="69" />
+              <folding>
+                <element signature="e#25#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -59,7 +65,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -71,7 +76,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,18 +130,16 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/XOR.py">
+    <entry file="file://$PROJECT_DIR$/XOR.py" />
+    <entry file="file://$PROJECT_DIR$/deep_class/09_XOR-backpropagation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2838">
-          <caret line="152" column="77" selection-start-line="152" selection-start-column="77" selection-end-line="152" selection-end-column="77" />
+        <state relative-caret-position="746">
+          <caret line="169" column="69" lean-forward="true" selection-start-line="2" selection-end-line="169" selection-end-column="69" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#25#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deep_class/09_XOR-backpropagation.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
