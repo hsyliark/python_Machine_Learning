@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="fcb1905c-9ec6-42ca-ac75-b7041ec5e99c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/8월 8일 (Perceptron, XOR)-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/8월 8일 (Perceptron, XOR)-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8월 8일 (Perceptron, XOR).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/8월 8일 (Perceptron, XOR).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/8월 13일 (CNN, convolutional neural network)-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/8월 13일 (CNN, convolutional neural network)-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/8월 7일 (폐암환자 생존율)-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8월 13일 (CNN, convolutional neural network).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/8월 13일 (CNN, convolutional neural network).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8월 7일 (폐암환자 생존율).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deep_code/16_MNIST_Deep.py" beforeDir="false" afterPath="$PROJECT_DIR$/deep_code/16_MNIST_Deep.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,13 +17,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deep_class/09_XOR-backpropagation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="746">
-              <caret line="169" column="69" lean-forward="true" selection-start-line="2" selection-end-line="169" selection-end-column="69" />
+            <state relative-caret-position="458">
+              <caret line="157" column="26" selection-start-line="157" selection-start-column="26" selection-end-line="157" selection-end-column="26" />
               <folding>
                 <element signature="e#25#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/deep_code/16_MNIST_Deep.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="794">
+              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+              <folding>
+                <element signature="e#24#56#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -42,6 +57,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/XOR.py" />
+        <option value="$PROJECT_DIR$/deep_code/16_MNIST_Deep.py" />
       </list>
     </option>
   </component>
@@ -65,6 +81,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -76,7 +93,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -133,10 +149,20 @@
     <entry file="file://$PROJECT_DIR$/XOR.py" />
     <entry file="file://$PROJECT_DIR$/deep_class/09_XOR-backpropagation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="746">
-          <caret line="169" column="69" lean-forward="true" selection-start-line="2" selection-end-line="169" selection-end-column="69" />
+        <state relative-caret-position="458">
+          <caret line="157" column="26" selection-start-line="157" selection-start-column="26" selection-end-line="157" selection-end-column="26" />
           <folding>
             <element signature="e#25#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_code/16_MNIST_Deep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="794">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="e#24#56#0" expanded="true" />
           </folding>
         </state>
       </provider>
